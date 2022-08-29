@@ -10,18 +10,62 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ---
 
-## Part 1 - Insert Summary
+## Part 1 - Google Cloud Platform
 
-Insert Instructions
+**COMPUTE**
+
+- Compute Engine
+- Shielded VMs
+- Cloud Run
+- App Engine
+- Cloud Functions
+- Cloud GPU
+
+
+**STORAGE**
+
+- Cloud Storage
+- Persistent Disk
+- Filestore
+- Archive Storage
+
+**DATABASE**
+
+- Cloud SQL
+- Cloud Bigtable
+- Cloud Spanner
+- Firestore
+- Memorystore
 
 ---
 
-## Part 2 - Insert Summary
+## Part 2 - Amazon Web Service
 
-Insert Instructions
+
+
+**COMPUTE**
+
+- Amazon EC2
+- Amazon ElasticBeanstalk
+- Amazon Fargate
+- Amazon Lambda
+
+**STORAGE**
+
+- Amazon S3
+- Amazon EBS
+
+
+**DATABASE**
+
+- Amazon Aurora
+- Amazon DocumentDB
+- Amazon DynamoDB
+
+
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Create Personal AWS Account
 
 Insert Instructions
