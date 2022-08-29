@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Cloud Platform (GCP & AWS)
 
 ## Dependencies
 
@@ -10,10 +10,12 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What are the differentiation between AWS and GCP
+- What are the available products on AWS and GCP
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Create a new AWS Account
+- Explore some of AWS product
 
 
 ## Lesson Plan
