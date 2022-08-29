@@ -66,6 +66,13 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ---
 
-## Part 3 - Create Personal AWS Account
+## Part 3 - GCP VS AWS
+
+
+
+
+---
+
+## Part 4 - Create Personal AWS Account
 
 Insert Instructions
