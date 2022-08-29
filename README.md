@@ -29,7 +29,7 @@ Learners will be able to:
 |10 mins|Conceptual Knowledge| AWS VS GCP|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Activity| Explore AWS Products|
+|40 mins|Activity| Explore AWS Products and Account Creation|
 |5 mins|Buffer|In case of overrun|
 |5 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
