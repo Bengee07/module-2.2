@@ -10,7 +10,8 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Readings
 
-- add links
+- [AWS Account Creation](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
+- [AWS VS GCP](https://kinsta.com/blog/google-cloud-vs-aws/)
 
 ### Helpful Links (References)
 
