@@ -6,7 +6,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Video 
 
-- add links
+- [AWS vs GCP](https://www.youtube.com/watch?v=wjLrtJmm5Zo)
 
 ### Readings
 
