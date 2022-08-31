@@ -18,12 +18,29 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 **COMPUTE**
 
-- Compute Engine
-- Shielded VMs
-- Cloud Run
-- App Engine
-- Cloud Functions
-- Cloud GPU
+**- Compute Engine**
+
+Secure and customizable compute service that lets you create and run virtual machines on Google’s infrastructure. New customers get $300 in free credits to spend on Google Cloud. All customers get a general purpose machine (e2-micro instance) per month for free, not charged against your credits.
+
+**- Shielded VMs**
+
+Shielded VMs are virtual machines (VMs) on Google Cloud hardened by a set of security controls that help defend against rootkits and bootkits. Using Shielded VMs helps protect enterprise workloads from threats like remote attacks, privilege escalation, and malicious insiders. Shielded VMs leverage advanced platform security capabilities such as secure and measured boot, a virtual trusted platform module (vTPM), UEFI firmware, and integrity monitoring.
+
+**- Cloud Run**
+
+Build and deploy scalable containerized apps using your favorite language (Go, Python, Java, Node.js, .NET) on a fully managed serverless platform. New customers get $300 in free credits to spend on Cloud Run. All customers get 2 million requests free per month, not charged against your credits.
+
+**- App Engine**
+
+Build monolithic server-side rendered websites. App Engine supports popular development languages with a range of developer tools. New customers get $300 in free credits to spend on App Engine. All customers get 28 instances in standard environment free per day, not charged against your credits.
+
+**- Cloud Functions**
+
+Run your code in the cloud with no servers or containers to manage with our scalable, pay-as-you-go functions as a service (FaaS) product. New customers get $300 in free credits to spend on Functions. All customers get 2 million monthly invocations free, not charged against your credits.
+
+**- Cloud GPU**
+
+High-performance GPUs on Google Cloud for machine learning, scientific computing, and 3D visualization.
 
 
 **STORAGE**
