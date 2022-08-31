@@ -75,12 +75,13 @@ Write about how instructors can brief the students at the start of the lesson. I
 ## Part 3 - GCP VS AWS
 
 
-![image](https://user-images.githubusercontent.com/106639884/187566232-4b716b54-fd25-4c52-8c5a-b918d8eba5d2.png)
-
+<img width="1172" alt="image" src="https://user-images.githubusercontent.com/106639884/187566341-35002f24-8ea7-4ad2-9ed6-aaaab2a707ef.png">
 
 
 ---
 
 ## Part 4 - Create Personal AWS Account
 
-Insert Instructions
+How to create and activate a new AWS account?
+
+Follow these instruction: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
