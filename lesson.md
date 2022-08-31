@@ -45,18 +45,41 @@ High-performance GPUs on Google Cloud for machine learning, scientific computing
 
 **STORAGE**
 
-- Cloud Storage
-- Persistent Disk
-- Filestore
-- Archive Storage
+**- Cloud Storage**
+
+Object storage for companies of all sizes. Store any amount of data. Retrieve it as often as you’d like. New customers get $300 in free credits to spend on Storage. All customers get 5 GB of US regional storage free per month, not charged against your credits.
+
+**- Persistent Disk**
+
+Reliable, high-performance block storage for virtual machine instances. Enterprise scale, limitless flexibility, and competitive price for performance. New customers get $300 in free credits to spend on Persistent Disk.
+
+**- Filestore**
+
+High-performance, fully managed file storage.
+
+
 
 **DATABASE**
 
-- Cloud SQL
-- Cloud Bigtable
-- Cloud Spanner
-- Firestore
-- Memorystore
+**- Cloud SQL**
+
+Fully managed relational database service for MySQL, PostgreSQL, and SQL Server with rich extension collections, configuration flags, and developer ecosystems. New customers get $300 in free credits to spend on Cloud SQL.
+
+**- Cloud Bigtable**
+
+A fully managed, scalable NoSQL database service for large analytical and operational workloads with up to 99.999% availability. New customers get $300 in free credits to spend on Cloud Bigtable.
+
+**- Cloud Spanner**
+
+Fully managed relational database with unlimited scale, strong consistency, and up to 99.999% availability.
+
+**- Firestore**
+
+Easily develop rich applications using a fully managed, scalable, and serverless document database. New customers get $300 in free credits to spend on Firestore. All customers get 1 GB storage free per project, not charged against your credits.
+
+**- Memorystore**
+
+Reduce latency with scalable, secure, and highly available in-memory service for Redis and Memcached.
 
 ---
 
