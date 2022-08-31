@@ -82,6 +82,6 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ## Part 4 - Create Personal AWS Account
 
-How to create and activate a new AWS account?
+### How to create and activate a new AWS account?
 
 Follow these instruction: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
