@@ -46,7 +46,7 @@ Write about how instructors can brief the students at the start of the lesson. I
 ## Part 2 - Amazon Web Service
 
 
-![image](https://user-images.githubusercontent.com/106639884/187314264-9e458207-a391-4c83-9de6-b3831dfe6265.png)
+<img width="895" alt="image" src="https://user-images.githubusercontent.com/106639884/187566494-f3cc1359-ca98-48cc-a7fb-b282cd7189c6.png">
 
 
 **COMPUTE**
