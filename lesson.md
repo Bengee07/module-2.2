@@ -91,23 +91,51 @@ Reduce latency with scalable, secure, and highly available in-memory service for
 
 **COMPUTE**
 
-- Amazon EC2
-- Amazon ElasticBeanstalk
-- Amazon Fargate
-- Amazon Lambda
+**- Amazon EC2**
+
+Amazon Elastic Compute Cloud (Amazon EC2) offers the broadest and deepest compute platform, with over 500 instances and choice of the latest processor, storage, networking, operating system, and purchase model to help you best match the needs of your workload. We are the first major cloud provider that supports Intel, AMD, and Arm processors, the only cloud with on-demand EC2 Mac instances, and the only cloud with 400 Gbps Ethernet networking. We offer the best price performance for machine learning training, as well as the lowest cost per inference instances in the cloud. More SAP, high performance computing (HPC), ML, and Windows workloads run on AWS than any other cloud.
+
+
+**- Amazon ElasticBeanstalk**
+
+AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS. You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time. There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.
+
+
+**- Amazon Fargate**
+
+AWS Fargate is a technology that provides on-demand, right-sized compute capacity for containers. With AWS Fargate, you don't have to provision, configure, or scale groups of virtual machines on your own to run containers. You also don't need to choose server types, decide when to scale your node groups, or optimize cluster packing. You can control which pods start on Fargate and how they run with Fargate profiles. Fargate profiles are defined as part of your Amazon EKS cluster.
+
+**- Amazon Lambda**
+
+AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers. You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use.
 
 **STORAGE**
 
-- Amazon S3
-- Amazon EBS
+**- Amazon S3**
+
+Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements.
+
+
+**- Amazon EBS**
+
+Amazon Elastic Block Store (Amazon EBS) is an easy-to-use, scalable, high-performance block-storage service designed for Amazon Elastic Compute Cloud (Amazon EC2).
 
 
 **DATABASE**
 
-- Amazon Aurora
-- Amazon DocumentDB
-- Amazon DynamoDB
+**- Amazon Aurora**
 
+Amazon Aurora provides built-in security, continuous backups, serverless compute, up to 15 read replicas, automated multi-Region replication, and integrations with other AWS services.
+
+
+**- Amazon DocumentDB**
+
+Amazon DocumentDB is a scalable, highly durable, and fully managed database service for operating mission-critical MongoDB workloads.
+
+
+**- Amazon DynamoDB**
+
+Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. DynamoDB offers built-in security, continuous backups, automated multi-Region replication, in-memory caching, and data import and export tools.
 
 
 ---
@@ -117,6 +145,17 @@ Reduce latency with scalable, secure, and highly available in-memory service for
 
 <img width="1172" alt="image" src="https://user-images.githubusercontent.com/106639884/187566341-35002f24-8ea7-4ad2-9ed6-aaaab2a707ef.png">
 
+**Key Differences Between on Google Cloud and AWS**
+
+Let us discuss some of the major key differences between Google Cloud vs AWS:
+
+1. AWS has been developed and managed by Amazon as a secured cloud service platform, Whereas the Google Cloud Platform is a computer and service suite of Google’s public cloud. When comparing Services of Google Cloud and AWS, IaaS (Infrastructure as a Service) provided by Google Cloud Platform is Google Compute Engine, whereas, in the AWS, it is provided by Amazon Elastic Compute Cloud. PaaS (Platform as a Service) in Google Cloud Platform is Google App Engine.
+
+2. In AWS, PaaS is Amazon Elastic Beanstalk. Containers used in Google Cloud Platform are of Google Kubernetes Engines as well as Docker, whereas in AWS, it is of Kubernetes.
+
+3. The storage limit for objects in Google Cloud Platform and AWS is the same, i.e. 5TB/object. The memory volume size of the Google Cloud Platform is 1 GB to 64 TB. On the other hand, For AWS, memory volume is 1 GB to 16 TB while 4GB to 16 TB Provisioned IOPS.
+
+4. DNS used in Google Cloud Platform is Amazon Route 53, whereas AWS uses Cloud DNS. Additionally, the SSE 256-bit AES algorithm is used in both platforms for encryption.
 
 ---
 
