@@ -147,15 +147,51 @@ Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designe
 
 **Key Differences Between on Google Cloud and AWS**
 
-Let us discuss some of the major key differences between Google Cloud vs AWS:
 
-1. AWS has been developed and managed by Amazon as a secured cloud service platform, Whereas the Google Cloud Platform is a computer and service suite of Google’s public cloud. When comparing Services of Google Cloud and AWS, IaaS (Infrastructure as a Service) provided by Google Cloud Platform is Google Compute Engine, whereas, in the AWS, it is provided by Amazon Elastic Compute Cloud. PaaS (Platform as a Service) in Google Cloud Platform is Google App Engine.
+**Google Cloud vs AWS: Market share**
 
-2. In AWS, PaaS is Amazon Elastic Beanstalk. Containers used in Google Cloud Platform are of Google Kubernetes Engines as well as Docker, whereas in AWS, it is of Kubernetes.
+Q2, 2020 figures from Canalys show AWS had revenues of $10.8 billion and an IaaS market share of 31%, compared to Microsoft Azure in second place with an estimated market share of 20% and Google Cloud platform in third place with a 6% market share. AWS’s market share is higher than its four leading competitors combined.
 
-3. The storage limit for objects in Google Cloud Platform and AWS is the same, i.e. 5TB/object. The memory volume size of the Google Cloud Platform is 1 GB to 64 TB. On the other hand, For AWS, memory volume is 1 GB to 16 TB while 4GB to 16 TB Provisioned IOPS.
+The dominance of AWS is no surprise. AWS launched its public cloud platform in 2006 and has had a significant head start over Microsoft and Google. Google launched its PaaS Google App engine in 2008 but didn’t enter into the IaaS market until 2010. Four years is a long time in cloud computing.
 
-4. DNS used in Google Cloud Platform is Amazon Route 53, whereas AWS uses Cloud DNS. Additionally, the SSE 256-bit AES algorithm is used in both platforms for encryption.
+The significant head start has allowed AWS to exert its dominance, however, its competitors are catching up. Although AWS’s revenue grew by 29% in 2020 Q2 compared to the same quarter last year, Azure revenue grew by 47%, and Google Cloud Platform saw revenue increase by 43%.
+
+
+**Google Cloud vs AWS: Pricing**
+
+Businesses are constantly looking for opportunities to cut costs, and cloud computing is one area where significant savings can be made—although it’s difficult to conduct a meaningful Google Cloud vs AWS analysis on pricing alone. Google Cloud Platform offers comparable core cloud computing solutions to AWS although the services offered by each are not identical. There’s also an ongoing price war and frequent price cuts by Google Cloud and AWS with new services being launched regularly. A price comparison today could well be out-of-date tomorrow.
+
+That said, Google Cloud prides itself on providing lower costs than its competitors. Through the Google Cloud Platform Committed Use and Sustained Use Discount programs, there can be significant price advantages over AWS for certain compute services. Certainly, Google Cloud’s Sustained Use Discount program compares favorably with AWS’ On-Demand prices.
+
+Google Cloud’s Sustained Use Discounts provide price reductions the more a Virtual Machine is used each month, starting from one month of use. There are no upfront costs to achieve the discounts and no need to reserve an instance for one or three years, as is the case with AWS. With the discounts on offer, Google Cloud’s Virtual Machines are cheaper than AWS for many use cases.
+
+For organizations with large amounts of data to store or analyze, Google Cloud´s storage prices are up to 20% cheaper than AWS (with the exception of archive storage) and the price of database services also compares favorably. While there’s no difference in the price of container services, Google Cloud is an industry leader in the field and is also investing heavily in AI and Machine Learning technologies.
+
+
+**Google Cloud vs AWS: Features and services**
+
+There are cost advantages to using Google Cloud over AWS, but the cost is only part of the story. There’s no point choosing a cloud platform that offers a significant cost advantage if it lacks the flexibility, reliability, and level of performance to meet the needs of the business.
+
+Google Cloud offers around 95 different services, whereas AWS offers more than 200. Many of the additional services are important for large enterprises with specific requirements for their cloud environments, although Google Cloud does offer a core range of services that meet the needs of most businesses.
+
+Google Cloud certainly has an advantage in terms of flexibility, with far greater opportunities for customization of compute instances than AWS, which offers limited opportunities for customization. Each platform offers predefined instances to meet the needs of most businesses, but with Google Cloud Platform, if compute needs don’t match the predefined instances, it’s possible to create custom VMs to avoid paying for capacity that’s not required.
+
+
+**Google Cloud vs AWS: Global reach**
+
+While Google Cloud Platform beats AWS on price and flexibility, AWS scores better in terms of global reach, providing significantly more data centers around the world. As of September 2020, Google Cloud Platform had 24 regions, 73 zones, and over 100 points of presence in 35 countries. AWS has 24 regions, 77 availability zones, two local regions, and customers in 245 countries and territories. Further, AWS is adding new data centers at a faster rate than Google.
+
+This means that AWS may be a far better choice, especially outside of the United States and Europe. More regions and greater availability also mean businesses that choose AWS may be able to provision resources more rapidly—although it’s important to be aware that not every one of AWS’s services is available in every region.
+
+**Google Cloud vs AWS: Free tiers**
+
+Both AWS and Google Cloud offer free tiers to encourage businesses to try different services. AWS divides its free tier promotions between selected services for 30-day, 12-month, and always-free periods, subject to consumption limits. By comparison, Google Cloud keeps it simple by offering always-free tiers on 24 products and services—also subject to consumption limits.
+
+While many of the services and consumption limits are similar between both providers, Google Cloud also offers new customers $300 in credit to use on any service in its portfolio. Although $300 will not be a substantial amount for a large enterprise, considering the relative merits of the two Cloud Service Providers, the offer does give potential customers more flexibility in the services they try.
+
+**Which is Better, Google Cloud, or AWS?**
+
+When it comes to Google Cloud vs AWS, there’s no clear winner, as each cloud platform has its pros and cons. AWS is perhaps the best choice for large enterprises with specific requirements, for multinational companies with a presence in many countries, and for businesses outside of the United States and Europe. AWS also offers excellent levels of support, availability, and greater redundancy.
 
 ---
 
