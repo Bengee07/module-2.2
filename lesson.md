@@ -12,6 +12,10 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ## Part 1 - Google Cloud Platform
 
+
+![image](https://user-images.githubusercontent.com/106639884/187565187-bd7cb5c3-da80-487c-8b7a-ea516bb9674a.png)
+
+
 **COMPUTE**
 
 - Compute Engine
