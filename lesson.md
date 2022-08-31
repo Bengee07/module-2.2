@@ -75,6 +75,8 @@ Write about how instructors can brief the students at the start of the lesson. I
 ## Part 3 - GCP VS AWS
 
 
+![image](https://user-images.githubusercontent.com/106639884/187566232-4b716b54-fd25-4c52-8c5a-b918d8eba5d2.png)
+
 
 
 ---
