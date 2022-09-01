@@ -197,6 +197,10 @@ When it comes to Google Cloud vs AWS, there’s no clear winner, as each cloud p
 
 ## Part 4 - Create Personal AWS Account
 
-### How to create and activate a new AWS account?
+### Create and activate a new AWS account
 
 Follow these instruction: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+
+### Explore and Use AWS S3
+
+https://aws.amazon.com/s3/
