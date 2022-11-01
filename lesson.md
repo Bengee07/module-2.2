@@ -81,6 +81,17 @@ Easily develop rich applications using a fully managed, scalable, and serverless
 
 Reduce latency with scalable, secure, and highly available in-memory service for Redis and Memcached.
 
+
+### Brainstorming Activity
+
+Discuss within your group with the case you choose before, what technology on Google Cloud Platform that you will use or implement on your case?
+
+|Qns|Ans|
+|-|-|
+|Compute|What compute service that you will use? Why?|
+|Storage|What storage service that you will use? Why?|
+|Database|What storage service that you will use? Why?|
+
 ---
 
 ## Part 2 - Amazon Web Service
@@ -137,6 +148,16 @@ Amazon DocumentDB is a scalable, highly durable, and fully managed database serv
 
 Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. DynamoDB offers built-in security, continuous backups, automated multi-Region replication, in-memory caching, and data import and export tools.
 
+
+### Brainstorming Activity
+
+Discuss within your group with the case you choose before, what technology on Amazon that you will use or implement on your case?
+
+|Qns|Ans|
+|-|-|
+|Compute|What compute service that you will use? Why?|
+|Storage|What storage service that you will use? Why?|
+|Database|What storage service that you will use? Why?|
 
 ---
 
@@ -201,6 +222,3 @@ When it comes to Google Cloud vs AWS, there’s no clear winner, as each cloud p
 
 Follow these instruction: https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 
-### Explore and Use AWS S3
-
-https://aws.amazon.com/s3/
