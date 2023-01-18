@@ -20,7 +20,7 @@ Instructions:
 
 2. Create a report that describes the services and features of AWS, and how they can be used to support the deployment and management of different types of applications and services. Include examples of specific use cases and real-world scenarios where AWS has been used effectively.
 3. Create a 
-      - Simple application using one or more of the AWS services. You can use any programming language and framework you prefer. As an example, you can. OR
+      - Simple service/application using one or more of the AWS services. As an example, you can. OR
       - Diagram about your service and how it will connect it with other services.
 4. Create a short presentation that summarizes your findings and demonstrates your application.
 
