@@ -200,9 +200,7 @@ Google Cloud certainly has an advantage in terms of flexibility, with far greate
 
 **Google Cloud vs AWS: Global reach**
 
-While Google Cloud Platform beats AWS on price and flexibility, AWS scores better in terms of global reach, providing significantly more data centers around the world. As of September 2020, Google Cloud Platform had 24 regions, 73 zones, and over 100 points of presence in 35 countries. AWS has 24 regions, 77 availability zones, two local regions, and customers in 245 countries and territories. Further, AWS is adding new data centers at a faster rate than Google.
-
-This means that AWS may be a far better choice, especially outside of the United States and Europe. More regions and greater availability also mean businesses that choose AWS may be able to provision resources more rapidly—although it’s important to be aware that not every one of AWS’s services is available in every region.
+While Google Cloud Platform beats AWS on price and flexibility, the global reach of both companies are almost the same. As of Dec 2022, Google Cloud Platform had 35 regions with over 106 avaialbility zones. AWS has 30 regions with 96 availability zone. Further, AWS is adding new data centers at a faster rate than Google.
 
 **Google Cloud vs AWS: Free tiers**
 
